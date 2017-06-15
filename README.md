@@ -3,7 +3,7 @@ Validation développement d'une architecure applicative
 
 
 ## Présentation
-![capture_rancher](Capture du 2017-06-15 16-19-51.png)
+![capture_rancher](./Capture.png)
 - **Création de 4 conteneurs Docker :**
   - apache2
   - mysql
