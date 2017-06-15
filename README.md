@@ -37,7 +37,7 @@ Validation développement d'une architecure applicative
 - Apache : http://localhost:4000
 - Rancher : http://localhost:9090 (ou l'adresse IP retournée par la commande _docker inspect 'rancher' | grep '"IPAddress"'_ en port 8080)
 
-- Possibilité de visualiser les logs d'installation dans le fichier './init.log'
+- Possibilité de visualiser les logs d'installation dans le fichier _'./init.log'_
 
 ## Problèmes rencontrés
 - Suite à des erreurs de droits, on a dù basculer de docker-compose à docker (méthode manuelle)
