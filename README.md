@@ -41,7 +41,7 @@ Validation développement d'une architecure applicative
 
 ## Problèmes rencontrés
 - Suite à des erreurs de droits, on a dù basculer de docker-compose à docker (méthode manuelle)
--
+- Adminer ne fonctionne pas, le fichier adminer.php ne se télécharge pas dans le bon dossier _/usr/local/apache2/htdocs/_ (commande _wget https://www.adminer.org/static/download/4.2.5/adminer-4.2.5.php /usr/local/apache2/htdocs/index.html_)
 
 ## About
 
